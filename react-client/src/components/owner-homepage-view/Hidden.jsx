@@ -28,7 +28,7 @@ class Hidden extends React.Component {
 const hidden = {
   float: 'left',
   height: '80vh',
-  width: '190px'
+  width: '18%'
 }
 
 export default DropTarget(ItemTypes.SAVED, deleteSource, collect)(Hidden);

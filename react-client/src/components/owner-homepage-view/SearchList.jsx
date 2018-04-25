@@ -25,8 +25,7 @@ const style = {
 const container = {
   height: '70vh',
   float: 'left',
-  width: '40%',
-  "margin-right": '100px'
+  width: '40%'
 }
 
 export default SearchList;
